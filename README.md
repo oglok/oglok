@@ -29,3 +29,5 @@ Outside of work, I enjoy photography 📸, music 🎵, outdoor sports 🏃‍♂
 
 If you want to talk open source, Kubernetes on small devices, or even hobbies, feel free to reach out! 🏂💬
 
+![Oglok's Github stats](https://github-readme-stats.vercel.app/api?username=oglok&count_private=true&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl&cache_seconds=86400)
+
