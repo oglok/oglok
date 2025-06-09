@@ -19,3 +19,13 @@
 </p>
 
 ---
+Welcome to my GitHub! 🎉 I’m a Principal Software Engineer at Red Hat, driving innovation in open source projects around edge computing, Kubernetes, and automation.
+
+With years of experience contributing to major communities like OpenDaylight, OpenStack, and OPNFV, I’m now focused on pushing the boundaries of AI at the edge. 🤖🌐
+
+As an organizer of the CNCF Community Group in Madrid, I’m passionate about building a vibrant local cloud-native ecosystem and empowering fellow engineers. 🚀
+
+Outside of work, I enjoy photography 📸, music 🎵, outdoor sports 🏃‍♂️⛷️, and being a maker—3D printing, electronics, and all things hands-on. ⚙️✨
+
+If you want to talk open source, Kubernetes on small devices, or even hobbies, feel free to reach out! 🏂💬
+
